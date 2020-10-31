@@ -1,0 +1,40 @@
+xrun: 19.09-s003: (c) Copyright 1995-2019 Cadence Design Systems, Inc.
+TOOL:	xrun	19.09-s003: Started on Oct 30, 2020 at 17:49:38 CET
+xrun
+	-f sv.f
+		mtm_Alu.vp
+	-linedebug
+	-debug
+	-gui
+xrun: *W,BADPRF: The -linedebug option may have an adverse performance impact.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xrun: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+INCLUDE $PDK_DIR/cds.lib
+|
+xmsim: *W,DLCVAR (/home/student/mkaczmarczyk/cds.lib,1): cds.lib Invalid environment variable ''.
+
+-------------------------------------
+Relinquished control to SimVision...
+xcelium> 
+xcelium> source /cad/XCELIUM1909/tools/xcelium/files/xmsimrc
+xcelium> run 1
+Ran until 1 NS + 0
+xcelium> ^C
+xcelium> exit
+TOOL:	xrun	19.09-s003: Exiting on Oct 30, 2020 at 17:50:02 CET  (total: 00:00:24)

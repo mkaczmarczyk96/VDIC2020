@@ -1,0 +1,7 @@
+s1(19Oct2020:13:24:17):  xrun -f sv.f -linedebug -debug -gui 
+s2(26Oct2020:19:51:32):  xrun -f sv.f -linedebug -debug -gui 
+s3(29Oct2020:15:06:49):  xrun -f sv.f -linedebug -debug -gui 
+s4(29Oct2020:15:12:22):  xrun -f sv.f -linedebug -debug -gui 
+s5(29Oct2020:15:17:45):  xrun -f sv.f -linedebug -debug -gui 
+s6(29Oct2020:15:53:57):  xrun -f sv.f -linedebug -debug -gui 
+s7(30Oct2020:17:49:38):  xrun -f sv.f -linedebug -debug -gui 
